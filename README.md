@@ -22,6 +22,3 @@ Type of fluid flow: turbulent flow.
 
 
 
-
-
-***God first, always***
